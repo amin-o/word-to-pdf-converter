@@ -12,10 +12,10 @@
   "author": "amin-o",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "dotenv": "^8.2.0",
     "email-validator": "^2.0.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-fileupload": "^1.1.7-alpha.3",
     "hbs": "^4.1.1",
     "libreoffice-convert": "^1.0.5",
